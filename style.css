@@ -1,0 +1,26 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: url(91.png);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: url(91.png);
+}
+.row .col-xl-6 {
+    background-image: url(91.png);
+}
+.row .col-xl-4 .card.col-md-4.col-xl-12 {
+    background-image: url(91.png);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #000000;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: #FCE90D;
+    color: #000000;
+}
+.row .card.col-md-4 {
+    background-image: url(91.png);
+}
+.row .card.col-md-4 .card-img-top {
+    background-image: url(91.png);
+}
